@@ -1,2 +1,2 @@
 config-client:
-  message: hello world2
+  message: ${/test/dan/message}

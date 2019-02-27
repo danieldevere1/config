@@ -1,4 +1,5 @@
 config-client:
   configs:
     message: hello
-    something: message
+    something: something else
+    parameter-store: ${/test/dan/message}

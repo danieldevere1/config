@@ -1,2 +1,2 @@
 config-client:
-  message: ${/test/dan/message}
+  message: '${/test/dan/message} something else'

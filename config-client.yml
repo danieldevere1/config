@@ -1,6 +1,6 @@
+custom: message
 config-client:
   configs:
     message: hello
     something: something else
     parameter-store: ${/test/dan/message}
-custom: message

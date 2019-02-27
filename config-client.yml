@@ -3,3 +3,4 @@ config-client:
     message: hello
     something: something else
     parameter-store: ${/test/dan/message}
+custom: message

@@ -4,3 +4,4 @@ config-client:
     key: hello world
     another-key: this is a good value
     another: this value
+    hey: something

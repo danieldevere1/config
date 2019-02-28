@@ -1,1 +1,6 @@
-custom: message
+spring:
+  rabbitmq:
+    host: ${/dan/rabbitmq/host}
+    port: ${/dan/rabbitmq/port}
+    username: ${/dan/rabbitmq/username}
+    password: ${/dan/rabbitmq/password}

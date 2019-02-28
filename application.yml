@@ -1,3 +1,4 @@
+# force update
 spring:
   rabbitmq:
     host: ${/dan/rabbitmq/host}

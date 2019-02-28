@@ -1,5 +1,3 @@
 config-client:
   configs:
-    message: ${custom.message}
-    something: something else
-    parameter-store: ${/test/dan/message}
+    message: value

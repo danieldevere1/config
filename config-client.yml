@@ -3,9 +3,3 @@ config-client:
     message: value
     key: hello world
     another-key: this is a good value
-spring:
-  rabbitmq:
-    host: ${/dan/rabbitmq/host}
-    port: 5672
-    username: ${/dan/rabbitmq/username}
-    password: ${/dan/rabbitmq/password}
